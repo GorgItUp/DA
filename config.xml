@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
-	version 	= "1.0.0">
+	id		= "com.gorg.da"
+	version 	= "99.999">
 
 	<name>DA</name>
 
@@ -10,8 +10,8 @@
 		a mobile app
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
+	<author href=""
+		email="heiko.georg@gmx.de">
 		Andrew Lunny
 	</author>
 
